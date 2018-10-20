@@ -73,7 +73,7 @@ Dataset: Smarket (downloaded from https://www-bcf.usc.edu/~gareth/ISL/ and conve
 
 Packages used: numpy, pandas, sklearn and scipy"""
 
-![QDA](https://github.com/sameervk/ISLR_Python/Classification/QDA.png)
+![QDA](https://github.com/sameervk/ISLR_Python/tree/master/Classification)
       
 ----------
 
